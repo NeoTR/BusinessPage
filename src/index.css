@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.gradient {
+  background: linear-gradient(90deg, rgb(255, 244, 255) 0%, #a29df0 100%);
+  filter: blur(100px);
+}
+
+label {
+  @apply text-white mx-4;
+}
+
+select {
+  @apply bg-transparent text-gray-400;
+}
+
+option {
+  @apply bg-[#242424] border-transparent;
+}
