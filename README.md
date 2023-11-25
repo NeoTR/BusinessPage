@@ -14,7 +14,7 @@ A react based single page website to display your products that includes a way t
 
 
 ## Web App Preview
-![](https://i.imgur.com/Xo3va3T.png)
+![](https://i.imgur.com/0m4jDCq.png)
 
 
 
